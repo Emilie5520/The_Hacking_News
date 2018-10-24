@@ -1,24 +1,14 @@
-# README
+Projet Mercredi semaine 4 THP : En groupe : @Joelthp, @Elmousski, @MattMonta, @CharlotteHouivet et  @Emilie5520
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+How to execute the program ?
 
-* Ruby version
+1. Clone this repository
 
-* System dependencies
+2. Install all the gems
 
-* Configuration
+3. $ bundle install
 
-* Database creation
+4. Migrate db files
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+5. $ rails db:migrate
